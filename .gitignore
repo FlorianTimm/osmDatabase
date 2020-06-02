@@ -1,0 +1,5 @@
+osm2pgsql.zip
+osmosis.zip
+config.ini
+/working/state.txt
+*.lock
